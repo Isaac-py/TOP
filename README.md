@@ -1,2 +1,1 @@
-# TOP
-The Odin Project
+This repository is for tracking my TOP progress.
