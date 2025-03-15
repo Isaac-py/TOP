@@ -1,0 +1,9 @@
+body {
+    background-color: #f8e7c1;
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    text-align: left;
+    font-size: 24px;
+}
