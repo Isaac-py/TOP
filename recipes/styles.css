@@ -32,10 +32,6 @@ h1{
     font-size: 35px;
 }
 
-ul,ol{
-    font-size: 20px;
-}
-
-p{
+ul,ol,p{
     font-size: 20px;
 }
