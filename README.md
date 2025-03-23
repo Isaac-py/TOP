@@ -1,1 +1,1 @@
-This repository is for tracking my TOP progress.
+This is the repository for the first project in the The Odin Project in the Foundations section.
